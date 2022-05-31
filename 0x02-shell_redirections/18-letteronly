@@ -1,0 +1,26 @@
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --                                                  0,1           All
+#!/bin/bash
+grep -i "^[a-z]" /etc/ssh/sshd_config
